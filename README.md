@@ -1,11 +1,11 @@
 # Fakeman
-
-Currently building Android ROMs for Exynos 7420. Not a developer, just a project for me.
-
-## For the latest Android and MindTheGapps Legacy builds, visit here:
+## For the latest Android builds, TWRP images and MindTheGapps Legacy ZIPs, visit here:
 <https://fakemanoan.github.io>
 
-I also have other projects such as:
-- Windows Classic KDE Dark Theme
-- Modern Teamfortress.tv CSS Theme (for use with Stylus or similar)
-- TF2 Fast Sniper Rescope script (written in Scalu)
+Current Projects:
+- KDE 5 Windows Classic Style Dark Theme
+- KDE 5 Adjustable Icon Size Task Manager
+- TF2 Sniper Fast Rescope Script (written in Scalu)
+- Teamfortress.tv Modern Theme and SVG Icons for use in Stylus
+
+If you would like to donate for whatever reason visit here: <https://ko-fi.com/fakemanoan>
