@@ -8,10 +8,10 @@ If your answer isn't there, head over to <https://fakemanoan.github.io/bugreport
 
 ### Current Projects
 - Exynos 7420 support on LineageOS 18.1, 19.1, 20, 21 (<https://github.com/samsungexynos7420>)
-  - Galaxy S6
-  - Galaxy S6 Edge
-  - Galaxy S6 Edge+
-  - Note5
+  - Samsung Galaxy S6
+  - Samsung Galaxy S6 Edge
+  - Samsung Galaxy S6 Edge+
+  - Samsung Galaxy Note5
 - KDE 5 Windows Classic Style Dark Theme
 - KDE 5/6 Adjustable Icon Size Task Manager
 - teamfortress.tv Modern Theme and SVG Icons for use in Stylus
